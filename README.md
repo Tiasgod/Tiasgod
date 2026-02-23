@@ -1,17 +1,19 @@
 Olá, me chamo Tiago Pereira Dias
 
+## Sobre Mim
+
 Sou Estudante de Análise e Desenvolvimento de Sistemas (3º semestre – Fatec) e formado em Gestão de Tecnologia da Informação pela FIAP.
 Focado em desenvolvimento Back-end com Java e Spring Boot, construindo APIs REST e aplicações estruturadas com boas práticas. Também possuo experiência com Python e desenvolvimento web utilizando JavaScript, HTML e CSS.
 Desenvolvo projetos acadêmicos e pessoais voltados para lógica de programação, modelagem de dados e construção de sistemas.
 
-Foco Atual:
+## Foco Atual:
 
 Desenvolvimento Back-end
 APIs REST
 Análise de Dados
 Modelagem de Banco de Dados
 
-Stack Principal
+## Stack Principal
 
 Java · Spring Boot · Python · JavaScript · HTML · CSS · SQL · Git
 
@@ -23,27 +25,32 @@ Java · Spring Boot · Python · JavaScript · HTML · CSS · SQL · Git
 
 Conhecimentos Técnicos:
 
+## Experiência Técnica
+
+Tenho experiência prática com:
+
 [
-  "Programação Orientada a Objetos,"
-  "Desenvolvimento de APIs REST,"
-  "Spring Boot,"
-  "Estrutura MVC,"
-  "Integração com Banco de Dados (SQL e MySQL),"
-  "Integração Front-end e Back-end,"
-  "Versionamento com Git"
+    "Programação Orientada a Objetos",
+    "Desenvolvimento de APIs REST",
+    "Spring Boot",
+    "Modelagem de Banco de Dados",
+    "MySQL",
+    "Versionamento com Git",
+    "Integração Front-end e Back-end",
+    "Documentação de Projetos"
 ]
 
-Formação:
+## Formação:
 
 Gestão de Tecnologia da Informação – FIAP
 Análise e Desenvolvimento de Sistemas – Fatec
 Desenvolvimento Web – Instituto PROA
 
-Objetivo:
+## Objetivo:
 
 Atuar como Estagiário na área de TI, com foco em desenvolvimento Full-Stack, Análise de Dados e DBA.
 
-Contato:
+## Contato:
 
 https://www.linkedin.com/in/tiago-dias-a18686272/
 tigo4581@hotmail.com
