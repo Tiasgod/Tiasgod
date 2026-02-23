@@ -16,9 +16,11 @@ Stack Principal
 Java · Spring Boot · Python · JavaScript · HTML · CSS · SQL · Git
 ## Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tiasgod&show_icons=true&theme=default)
+## Estatísticas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tiasgod&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiasgod&layout=compact)
 
 Conhecimentos Técnicos:
 
