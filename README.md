@@ -1,16 +1,34 @@
-## Hi there 👋
+Olá, me chamo Tiago Pereira Dias
 
-<!--
-**Tiasgod/Tiasgod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Estudante de Análise e Desenvolvimento de Sistemas (3º semestre – Fatec) e formado em Gestão de Tecnologia da Informação pela FIAP.
+Focado em desenvolvimento Back-end com Java e Spring Boot, construindo APIs REST e aplicações estruturadas com boas práticas. Também possuo experiência com Python e desenvolvimento web utilizando JavaScript, HTML e CSS.
+Desenvolvo projetos acadêmicos e pessoais voltados para lógica de programação, modelagem de dados e construção de sistemas.
 
-Here are some ideas to get you started:
+Foco Atual:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Desenvolvimento Back-end
+APIs REST
+Análise de Dados
+Modelagem de Banco de Dados
+
+Stack Principal
+
+Java · Spring Boot · Python · JavaScript · HTML · CSS · SQL · Git
+
+Conhecimentos Técnicos:
+
+Programação Orientada a Objetos
+Desenvolvimento de APIs REST
+Estrutura MVC
+Integração com Banco de Dados (SQL e MySQL)
+Versionamento com Git
+
+Formação:
+
+Gestão de Tecnologia da Informação – FIAP
+Análise e Desenvolvimento de Sistemas – Fatec
+Desenvolvimento Web – Instituto PROA
+
+Objetivo
+
+Atuar como Estagiário na área de TI, com foco em desenvolvimento Full-Stack, Análise de Dados e DBA.
