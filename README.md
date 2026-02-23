@@ -14,14 +14,23 @@ Modelagem de Banco de Dados
 Stack Principal
 
 Java · Spring Boot · Python · JavaScript · HTML · CSS · SQL · Git
+## Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tiasgod&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact)
 
 Conhecimentos Técnicos:
 
-Programação Orientada a Objetos
-Desenvolvimento de APIs REST
-Estrutura MVC
-Integração com Banco de Dados (SQL e MySQL)
-Versionamento com Git
+[
+  "Programação Orientada a Objetos"
+  "Desenvolvimento de APIs REST"
+  "Spring Boot"
+  "Estrutura MVC"
+  "Integração com Banco de Dados (SQL e MySQL)"
+  "Integração Front-end e Back-end"
+  "Versionamento com Git"
+]
 
 Formação:
 
