@@ -40,8 +40,8 @@ Tenho experiência prática com:
 
 ## Formação:
 
-Gestão de Tecnologia da Informação – FIAP
-Análise e Desenvolvimento de Sistemas – Fatec
+Gestão de Tecnologia da Informação – FIAP |
+Análise e Desenvolvimento de Sistemas – Fatec |
 Desenvolvimento Web – Instituto PROA
 
 ## Objetivo:
