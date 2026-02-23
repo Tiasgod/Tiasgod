@@ -17,9 +17,9 @@ Java · Spring Boot · Python · JavaScript · HTML · CSS · SQL · Git
 
 ## Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tiasgod&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tiasgod&show_icons=true&theme=tokyonight&cache_seconds=1)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiasgod&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiasgod&layout=compact&theme=tokyonight&cache_seconds=1)
 
 Conhecimentos Técnicos:
 
