@@ -23,8 +23,6 @@ Java · Spring Boot · Python · JavaScript · HTML · CSS · SQL · Git
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tiasgod&layout=compact&theme=tokyonight)
 
-Conhecimentos Técnicos:
-
 ## Experiência Técnica
 
 Tenho experiência prática com:
