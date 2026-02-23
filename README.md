@@ -29,6 +29,11 @@ Gestão de Tecnologia da Informação – FIAP
 Análise e Desenvolvimento de Sistemas – Fatec
 Desenvolvimento Web – Instituto PROA
 
-Objetivo
+Objetivo:
 
 Atuar como Estagiário na área de TI, com foco em desenvolvimento Full-Stack, Análise de Dados e DBA.
+
+Contato:
+
+https://www.linkedin.com/in/tiago-dias-a18686272/
+tigo4581@hotmail.com
