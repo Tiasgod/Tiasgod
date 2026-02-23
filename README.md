@@ -14,7 +14,6 @@ Modelagem de Banco de Dados
 Stack Principal
 
 Java · Spring Boot · Python · JavaScript · HTML · CSS · SQL · Git
-## Estatísticas
 
 ## Estatísticas
 
