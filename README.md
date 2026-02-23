@@ -24,12 +24,12 @@ Java · Spring Boot · Python · JavaScript · HTML · CSS · SQL · Git
 Conhecimentos Técnicos:
 
 [
-  "Programação Orientada a Objetos"
-  "Desenvolvimento de APIs REST"
-  "Spring Boot"
-  "Estrutura MVC"
-  "Integração com Banco de Dados (SQL e MySQL)"
-  "Integração Front-end e Back-end"
+  "Programação Orientada a Objetos,"
+  "Desenvolvimento de APIs REST,"
+  "Spring Boot,"
+  "Estrutura MVC,"
+  "Integração com Banco de Dados (SQL e MySQL),"
+  "Integração Front-end e Back-end,"
   "Versionamento com Git"
 ]
 
