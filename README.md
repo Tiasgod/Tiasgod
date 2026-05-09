@@ -8,8 +8,8 @@ Desenvolvo projetos acadêmicos e pessoais voltados para lógica de programaçã
 
 ## Foco Atual:
 
-Análise de Dados
-Desenvolvimento Back-end
+Análise de Dados,
+Desenvolvimento Back-end,
 Modelagem de Banco de Dados
 
 ## Stack Principal
