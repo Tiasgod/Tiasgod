@@ -1,6 +1,4 @@
-
 <img src="github-header-banner (2).png" width="100%">
-
 
 <div align="center">
 
@@ -8,10 +6,11 @@
 
 </div>
 
-
 ## Estatísticas
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Tiasgod&show_icons=true&theme=tokyonight)
+
+<br><br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/julliakathelyn/julliakathelyn/output/pacman-contribution-graph-dark.svg">
@@ -20,5 +19,3 @@
   
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/julliakathelyn/julliakathelyn/output/pacman-contribution-graph.svg">
 </picture>
-
-
