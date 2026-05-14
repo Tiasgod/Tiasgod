@@ -1,6 +1,5 @@
 
-
-<img src="<img src="github-header-banner (1).png" width="100%">" width="100%">
+"<img src="github-header-banner (1).png" width="100%">" width="100%">
 
 ## Stack Principal
 
