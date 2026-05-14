@@ -21,32 +21,4 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/julliakathelyn/julliakathelyn/output/pacman-contribution-graph.svg">
 </picture>
 
-## Experiência Técnica
 
-Tenho experiência prática com:
-
-[
-    "Programação Orientada a Objetos",
-    "Desenvolvimento de APIs REST",
-    "Spring Boot",
-    "Modelagem de Banco de Dados",
-    "MySQL",
-    "Versionamento com Git",
-    "Integração Front-end e Back-end",
-    "Documentação de Projetos"
-]
-
-## Formação:
-
-Gestão de Tecnologia da Informação – FIAP |
-Análise e Desenvolvimento de Sistemas – Fatec |
-Desenvolvimento Web – Instituto PROA
-
-## Objetivo:
-
-Atuar como Estagiário na área de TI, com foco em desenvolvimento Full-Stack, Análise de Dados e DBA.
-
-## Contato:
-
-https://www.linkedin.com/in/tiago-dias-a18686272/
-tigo4581@hotmail.com
