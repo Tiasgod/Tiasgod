@@ -1,7 +1,9 @@
 
 <img src="github-header-banner (1).png" width="100%">
 
+<div align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=29&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+me+chamo+Tiago+Dias!)](https://git.io/typing-svg)
+</div>
 
 ## Estatísticas
 
