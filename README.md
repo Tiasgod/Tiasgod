@@ -1,14 +1,16 @@
+<div align="center">
+
 <img src="github-header-banner (2).png" width="100%">
 
-<div align="center">
+<br><br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=29&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+me+chamo+Tiago+Dias!)](https://git.io/typing-svg)
 
-</div>
+<br><br>
 
 ## Estatísticas
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Tiasgod&show_icons=true&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tiasgod&show_icons=true&theme=tokyonight"/>
 
 <br><br><br>
 
@@ -19,3 +21,5 @@
   
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/julliakathelyn/julliakathelyn/output/pacman-contribution-graph.svg">
 </picture>
+
+</div>
