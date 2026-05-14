@@ -12,7 +12,7 @@
 
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tiasgod&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="github-header-banner (2).png"/>
+<img height="180em" src="dog.png"/>
 
 <br><br><br>
 
