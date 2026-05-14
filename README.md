@@ -13,8 +13,6 @@
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Tiasgod&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tiasgod&layout=compact&theme=tokyonight)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/julliakathelyn/julliakathelyn/output/pacman-contribution-graph-dark.svg">
   
