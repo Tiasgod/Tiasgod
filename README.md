@@ -22,6 +22,14 @@ Java · Python · JavaScript · React · SQL · Git
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tiasgod&layout=compact&theme=tokyonight)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/julliakathelyn/julliakathelyn/output/pacman-contribution-graph-dark.svg">
+  
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/julliakathelyn/julliakathelyn/output/pacman-contribution-graph.svg">
+  
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/julliakathelyn/julliakathelyn/output/pacman-contribution-graph.svg">
+</picture>
+
 ## Experiência Técnica
 
 Tenho experiência prática com:
