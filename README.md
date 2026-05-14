@@ -1,9 +1,7 @@
 
 <img src="github-header-banner (1).png" width="100%">
 
-## Stack Principal
-
-Java · Python · JavaScript · React · SQL · Git
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=29&pause=1000&color=58A6FF&width=435&lines=Ol%C3%A1%2C+me+chamo+Tiago+Dias!)](https://git.io/typing-svg)
 
 ## Estatísticas
 
