@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=50&weight=700&duration=3000&pause=99999&color=58A6FF&center=true&vCenter=true&width=800&lines=Tiago+Dias" alt="Tiago Dias" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=70&weight=700&duration=3000&pause=99999&color=1B2A6B&center=true&vCenter=true&width=800&lines=Tiago+Dias" alt="Tiago Dias" />
 </p>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-  <img src="https://tenor.com/rvSgkixIfvE.gif" width="300">
+  <img src="https://media.tenor.com/yhaa2jvPoygAAAAj/ai-grok.gif" width="300">
 </div>
 
 <p align="center">Analista de Dados • Desenvolvedor Full Stack</p>
