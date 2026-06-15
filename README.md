@@ -14,69 +14,18 @@ Analista de Dados •  Desenvolvedor Full Stack
 
 ## Sobre Mim
 
-Tenho interesse em desenvolvimento de software, análise de dados, inteligência artificial e arquitetura de sistemas.
+Tenho interesse em análise de dados, inteligência artificial, desenvolvimento de software e arquitetura de sistemas.
 
 Busco criar soluções que transformem informações em experiências úteis para pessoas e empresas, combinando tecnologia, dados e impacto social.
 
 ### Áreas de Interesse
 
-- Desenvolvimento Full Stack
 - Análise de Dados
 - Inteligência Artificial
+- Desenvolvimento Full Stack
 - Banco de Dados
 - Engenharia de Software
 - Sustentabilidade e Tecnologia
-
----
-
-## Minha Jornada
-
-```text
-2023 ─ Gestão da Tecnologia da Informação (FIAP)
-
-2024 ─ Ingresso em Análise e Desenvolvimento de Sistemas (Fatec)
-
-2025 ─ Formação em Desenvolvimento Web e Java (Instituto PROA)
-
-2025 ─ Desenvolvimento do projeto Mercadez
-
-2026 ─ Fundação e desenvolvimento da Wattiz
-
-Hoje ─ Estudos em Dados, IA e Engenharia de Software
-
-Próximo Objetivo ─ Atuar profissionalmente com Desenvolvimento e Dados
-```
-
----
-
-## Projetos em Destaque
-
-### Wattiz
-
-Plataforma de monitoramento e conscientização energética que transforma dados de consumo em informações acessíveis para famílias brasileiras.
-
-**Tecnologias**
-Python • IA • APIs • Banco de Dados • Desenvolvimento Web
-
----
-
-### Mercadez
-
-Plataforma de comparação de preços inspirada em marketplaces modernos.
-
-**Tecnologias**
-Java • Spring Boot • SQL • Front-end
-
----
-
-### Hotel Nebula
-
-Sistema de gerenciamento hoteleiro voltado para estudos de modelagem e desenvolvimento de sistemas.
-
-**Tecnologias**
-Java • MySQL • CRUD
-
----
 
 ## Tecnologias
 
@@ -97,18 +46,6 @@ Java • MySQL • CRUD
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tiasgod&layout=compact&theme=tokyonight"/>
 
 </div>
-
----
-
-## Atualmente
-
-- Desenvolvendo a plataforma Wattiz
-- Aprimorando conhecimentos em Python
-- Estudando análise e visualização de dados
-- Explorando Inteligência Artificial aplicada a produtos
-- Evoluindo habilidades em Java e Spring Boot
-
----
 
 <div align="center">
 
