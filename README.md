@@ -9,10 +9,10 @@
 <table>
   <tr>
     <td width="280" align="center">
-      <img src="https://media.tenor.com/yhaa2jvPoygAAAAj/ai-grok.gif" width="220" />
+      <img src="https://media.tenor.com/HLVDt-cyKOMAAAAd/digital-marketing-course-in-indore.gif" width="240" />
     </td>
     <td>
-      <h2>👤 About Me</h2>
+      <h2>About Me</h2>
       <p>
         Sou <strong>Analista de Dados</strong> e <strong>Desenvolvedor Full Stack</strong> apaixonado por transformar dados em soluções digitais que geram impacto real.
       </p>
