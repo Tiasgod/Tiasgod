@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&color=2E8BC0&center=true&vCenter=true&width=800&lines=Analista+de+Dados;Desenvolvedor+Full+Stack;Product+Owner+da+Wattiz;Transformando+Dados+em+Solu%C3%A7%C3%B5es+Digitais" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2A6B,100:2E8BC0&height=200&section=header&text=Tiago%20Dias&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Analista%20de%20Dados%20%7C%20Dev%20Full%20Stack%20%7C%20Product%20Owner&descAlignY=58&descSize=18&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=2E8BC0&center=true&vCenter=true&multiline=false&width=700&lines=Analista+de+Dados+apaixonado+por+IA;Desenvolvedor+Full+Stack;Product+Owner+na+Wattiz;Transformando+dados+em+solucoes" />
 </p>
 
 ---
@@ -42,7 +46,7 @@
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tiasgod&layout=compact&theme=tokyonight"/>
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tiasgod&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Tiasgod&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tiasgod&theme=tokyo-night&hide_border=true" />
@@ -58,4 +62,8 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/julliakathelyn/julliakathelyn/output/pacman-contribution-graph.svg">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/julliakathelyn/julliakathelyn/output/pacman-contribution-graph.svg">
   </picture>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E8BC0,100:1B2A6B&height=100&section=footer" />
 </p>
