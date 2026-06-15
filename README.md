@@ -6,7 +6,7 @@
 
 # Tiago Dias
 
-Desenvolvedor Full Stack • Analista de Dados • Estudante de ADS
+Analista de Dados •  Desenvolvedor Full Stack
 
 Formado em Gestão da Tecnologia da Informação pela FIAP e estudante de Análise e Desenvolvimento de Sistemas pela Fatec.
 
