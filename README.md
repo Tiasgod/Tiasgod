@@ -6,18 +6,13 @@
 
 <table>
   <tr>
-    <td width="280" align="center">
+    <td width="280" align="center" valign="middle">
       <img src="https://media.tenor.com/HLVDt-cyKOMAAAAd/digital-marketing-course-in-indore.gif" width="240" />
     </td>
-    <td>
+    <td valign="middle">
       <h2>About Me</h2>
-      <p>
-        Sou <strong>Analista de Dados</strong> e <strong>Desenvolvedor Full Stack</strong> apaixonado por transformar dados em soluções digitais que geram impacto real.
-      </p>
-    
-      <p>
-        Tenho interesse profundo em <strong>Análises de Dados</strong> e <strong>Inteligência Artificial</strong>, buscando sempre transformar informações em experiências úteis para pessoas e empresas.
-      </p>
+      <p>Sou <strong>Analista de Dados</strong> e <strong>Desenvolvedor Full Stack</strong> apaixonado por transformar dados em soluções digitais que geram impacto real.</p>
+      <p>Tenho interesse profundo em <strong>Análises de Dados</strong> e <strong>Inteligência Artificial</strong>, buscando sempre transformar informações em experiências úteis para pessoas e empresas.</p>
     </td>
   </tr>
 </table>
