@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Analista+de+Dados;Desenvolvedor+Full+Stack;Criador+da+Wattiz;Python+%7C+SQL+%7C+Java+%7C+IA">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Analista+de+Dados;Desenvolvedor+Full+Stack;Product+Owner+da+Wattiz;Transformando+Dados+em+Solu%C3%A7%C3%B5es+Digitais">
 </p>
 
 # Tiago Dias
