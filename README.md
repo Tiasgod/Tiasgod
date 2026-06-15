@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-  <img src="https://media.tenor.com/x8v1oNUOmg4AAAAd/ai-grok.gif" width="300">
+  <img src="https://tenor.com/rvSgkixIfvE.gif" width="300">
 </div>
 
 <p align="center">Analista de Dados • Desenvolvedor Full Stack</p>
