@@ -6,8 +6,8 @@
 
 <table>
   <tr>
-    <td width="280" align="center" valign="middle">
-      <img src="https://media.tenor.com/HLVDt-cyKOMAAAAd/digital-marketing-course-in-indore.gif" width="240" />
+    <td width="260" align="center" valign="middle">
+      <img src="https://media1.tenor.com/m/Ulqiakf4_4gAAAAd/programming.gif" width="220" />
     </td>
     <td valign="middle">
       <h2>About Me</h2>
@@ -38,8 +38,14 @@
 ## Estatísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tiasgod&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tiasgod&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tiasgod&layout=compact&theme=tokyonight"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tiasgod&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tiasgod&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
