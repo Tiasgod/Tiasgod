@@ -39,6 +39,10 @@ Busco criar soluções que transformem informações em experiências úteis par
 
 </p>
 
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Tiasgod&theme=tokyonight" />
+</p>
+
 ---
 
 <div align="center">
