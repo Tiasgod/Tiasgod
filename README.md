@@ -8,10 +8,6 @@
 
 Analista de Dados •  Desenvolvedor Full Stack
 
-Formado em Gestão da Tecnologia da Informação pela FIAP e estudante de Análise e Desenvolvimento de Sistemas pela Fatec.
-
-Atualmente desenvolvendo soluções voltadas para tecnologia, análise de dados, inteligência artificial e sustentabilidade através do projeto Wattiz.
-
 </div>
 
 ---
