@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=70&weight=700&duration=99999&pause=99999&color=1B2A6B&center=true&vCenter=true&width=1000&height=100&lines=Tiago+Dias" alt="Tiago Dias" />
+![Tiago Dias](https://readme-typing-svg.demolab.com?font=Poppins&size=65&weight=700&duration=99999&pause=99999&color=1B2A6B&center=true&vCenter=true&width=1000&height=120&lines=Tiago+Dias)
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&color=2E8BC0&center=true&vCenter=true&width=800&lines=Analista+de+Dados;Desenvolvedor+Full+Stack;Product+Owner+da+Wattiz;Transformando+Dados+em+Solu%C3%A7%C3%B5es+Digitais" />
 
 <img src="https://media.tenor.com/yhaa2jvPoygAAAAj/ai-grok.gif" width="280" />
-
-<p><strong>Analista de Dados • Desenvolvedor Full Stack</strong></p>
 
 </div>
 
