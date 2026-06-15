@@ -17,19 +17,6 @@
   </tr>
 </table>
 
----
-
-### Áreas de Interesse
-
-- Análise de Dados
-- Inteligência Artificial
-- Desenvolvimento Full Stack
-- Banco de Dados
-- Engenharia de Software
-- Sustentabilidade e Tecnologia
-
----
-
 ## Tecnologias
 
 <p align="center">
