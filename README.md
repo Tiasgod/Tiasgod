@@ -1,5 +1,3 @@
-<h1 align="center">Tiago Dias</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&color=2E8BC0&center=true&vCenter=true&width=800&lines=Analista+de+Dados;Desenvolvedor+Full+Stack;Product+Owner+da+Wattiz;Transformando+Dados+em+Solu%C3%A7%C3%B5es+Digitais" />
 </p>
@@ -16,11 +14,9 @@
       <p>
         Sou <strong>Analista de Dados</strong> e <strong>Desenvolvedor Full Stack</strong> apaixonado por transformar dados em soluções digitais que geram impacto real.
       </p>
+    
       <p>
-        Atuo como <strong>Product Owner na Wattiz</strong>, onde conecto estratégia, tecnologia e dados para criar produtos melhores.
-      </p>
-      <p>
-        Tenho interesse profundo em <strong>Ciência de Dados</strong> e <strong>Inteligência Artificial</strong>, buscando sempre transformar informações em experiências úteis para pessoas e empresas.
+        Tenho interesse profundo em <strong>Análises de Dados</strong> e <strong>Inteligência Artificial</strong>, buscando sempre transformar informações em experiências úteis para pessoas e empresas.
       </p>
     </td>
   </tr>
