@@ -1,19 +1,32 @@
-<h1 align="center" style="color:#1B2A6B; font-size:3em; font-weight:900;">Tiago Dias</h1>
+<h1 align="center">Tiago Dias</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&color=2E8BC0&center=true&vCenter=true&width=800&lines=Analista+de+Dados;Desenvolvedor+Full+Stack;Product+Owner+da+Wattiz;Transformando+Dados+em+Solu%C3%A7%C3%B5es+Digitais" />
 </p>
 
-<p align="center">
-  <img src="https://media.tenor.com/yhaa2jvPoygAAAAj/ai-grok.gif" width="280" />
-</p>
-
 ---
 
-## Sobre Mim
+<table>
+  <tr>
+    <td width="280" align="center">
+      <img src="https://media.tenor.com/yhaa2jvPoygAAAAj/ai-grok.gif" width="220" />
+    </td>
+    <td>
+      <h2>👤 About Me</h2>
+      <p>
+        Sou <strong>Analista de Dados</strong> e <strong>Desenvolvedor Full Stack</strong> apaixonado por transformar dados em soluções digitais que geram impacto real.
+      </p>
+      <p>
+        Atuo como <strong>Product Owner na Wattiz</strong>, onde conecto estratégia, tecnologia e dados para criar produtos melhores.
+      </p>
+      <p>
+        Tenho interesse profundo em <strong>Ciência de Dados</strong> e <strong>Inteligência Artificial</strong>, buscando sempre transformar informações em experiências úteis para pessoas e empresas.
+      </p>
+    </td>
+  </tr>
+</table>
 
-Tenho interesse em análise de dados, inteligência artificial, desenvolvimento de software e arquitetura de sistemas.
-Busco criar soluções que transformem informações em experiências úteis para pessoas e empresas, combinando tecnologia, dados e impacto social.
+---
 
 ### Áreas de Interesse
 
