@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2A6B,100:2E8BC0&height=200&section=header&text=Tiago%20Dias&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Analista%20de%20Dados%20%7C%20Dev%20Full%20Stack%20%7C%20Product%20Owner&descAlignY=58&descSize=18&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2A6B,100:2E8BC0&height=200&section=header&text=Tiago%20Dias&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Analista%20de%20Dados%20%7C%20Dev%20Full%20Stack&descAlignY=58&descSize=18&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=2E8BC0&center=true&vCenter=true&multiline=false&width=700&lines=Analista+de+Dados+apaixonado+por+IA;Desenvolvedor+Full+Stack;Product+Owner+na+Wattiz;Transformando+dados+em+solucoes" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=2E8BC0&center=true&vCenter=true&multiline=false&width=700&lines=Analista+de+Dados+apaixonado+por+IA;Desenvolvedor+Full+Stack;Transformando+dados+em+solucoes" />
 </p>
 
 ---
