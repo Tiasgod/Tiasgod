@@ -22,12 +22,6 @@ Tenho interesse em análise de dados, inteligência artificial, desenvolvimento 
 
 Busco criar soluções que transformem informações em experiências úteis para pessoas e empresas, combinando tecnologia, dados e impacto social.
 
-<p align="center">
-<a href="LINK_WATTIZ">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Tiasgod&repo=Wattiz-Backend&theme=tokyonight">
-</a>
-</p>
-
 ### Áreas de Interesse
 
 - Análise de Dados
