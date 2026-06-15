@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=2E8BC0&center=true&vCenter=true&multiline=false&width=700&lines=Analista+de+Dados+apaixonado+por+IA;Desenvolvedor+Full+Stack;Transformando+dados+em+solucoes" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=2E8BC0&center=true&vCenter=true&multiline=false&width=700&lines=Analista+de+Dados+apaixonado+por+IA;Desenvolvedor+Full+Stack;Transformando+dados+em+Solu%C3%A7%C3%B5es" />
 </p>
 
 ---
@@ -45,9 +45,7 @@
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tiasgod&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tiasgod&layout=compact&theme=tokyonight"/>
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tiasgod&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
-</p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tiasgod&theme=tokyo-night&hide_border=true" />
 </p>
