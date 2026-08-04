@@ -16,7 +16,7 @@
     <td valign="middle">
       <h2>About Me</h2>
       <p>Sou <strong>Analista de Dados</strong> e <strong>Desenvolvedor Full Stack</strong>, com foco em Back-end, apaixonado por transformar dados em soluções digitais que geram impacto real.</p>
-      <p>Tenho interesse profundo em <strong>Análises de Dados</strong> e <strong>Inteligência Artificial</strong>, buscando sempre transformar informações em experiências úteis para pessoas e empresas.</p>
+      <p>Tenho interesse profundo em carreiras com <strong>Dados</strong> e <strong>Inteligência Artificial</strong>, buscando sempre transformar informações em experiências úteis para pessoas e empresas.</p>
       <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tiasgod&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
     </td>
   </tr>
