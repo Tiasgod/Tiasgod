@@ -43,15 +43,15 @@
 ## Estatísticas
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Tiasgod&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" 
-    height="180em"
-  />
+  <strong>
+    Confira minhas atividades, repositórios e contribuições diretamente no meu perfil do GitHub.
+  </strong>
+</p>
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiasgod&layout=compact&theme=tokyonight&hide_border=true" 
-    height="180em"
-  />
+<p align="center">
+  <a href="https://github.com/Tiasgod">
+    <img src="https://img.shields.io/badge/GitHub-Tiasgod-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
