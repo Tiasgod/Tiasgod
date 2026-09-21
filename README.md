@@ -18,7 +18,7 @@
 
 Sou **Analista de Dados e Engenheiro de IA**, com foco no desenvolvimento de soluções que combinam **dados, programação e inteligência artificial**.
 
-Tenho interesse em transformar dados em informações úteis, desenvolver aplicações back-end e explorar tecnologias de Inteligência Artificial para criar soluções mais eficientes e inteligentes.
+Tenho interesse em transformar dados em informações úteis, desenvolver aplicações Back-End e explorar tecnologias de Inteligência Artificial para criar soluções eficientes e inteligentes.
 
 Atualmente, venho aprofundando meus conhecimentos em:
 
@@ -38,13 +38,11 @@ Atualmente, venho aprofundando meus conhecimentos em:
 ## Data & Analytics
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,excel&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,excel,sklearn&perline=3" />
 </p>
 
 <p align="center">
-  <strong>Pandas</strong> &nbsp;&nbsp; 
-  <strong>NumPy</strong> &nbsp;&nbsp;
-  <strong>Scikit-learn</strong>
+  Pandas · NumPy
 </p>
 
 ---
@@ -60,15 +58,11 @@ Atualmente, venho aprofundando meus conhecimentos em:
 ## AI Engineering
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ollama,huggingface&perline=6" />
+  <img src="https://skillicons.dev/icons?i=ollama,huggingface&perline=2" />
 </p>
 
 <p align="center">
-  <strong>LangChain</strong> &nbsp;&nbsp;
-  <strong>OpenAI API</strong> &nbsp;&nbsp;
-  <strong>LLMs</strong> &nbsp;&nbsp;
-  <strong>RAG</strong> &nbsp;&nbsp;
-  <strong>AI Agents</strong>
+  LangChain · OpenAI API · LLMs · RAG · AI Agents
 </p>
 
 ---
@@ -81,50 +75,6 @@ Atualmente, venho aprofundando meus conhecimentos em:
 
 ---
 
-## Tecnologias
-
-### Linguagens
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts&perline=4" />
-</p>
-
-### Dados
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python&perline=4" />
-</p>
-
-<p align="center">
-  Pandas · NumPy · Excel · Scikit-learn
-</p>
-
-### Inteligência Artificial
-
-<p align="center">
-  Ollama · LangChain · Hugging Face · OpenAI API
-</p>
-
-### Back-End
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,spring,nodejs&perline=3" />
-</p>
-
-### Banco de Dados
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=3" />
-</p>
-
-### DevOps & Ambiente
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,github&perline=4" />
-</p>
-
----
-
 ## Atualmente Estudando
 
 Tenho como foco o aprofundamento em **Engenharia de IA**, principalmente no desenvolvimento de aplicações utilizando modelos de linguagem e integração entre Inteligência Artificial, dados e sistemas de software.
@@ -132,12 +82,6 @@ Tenho como foco o aprofundamento em **Engenharia de IA**, principalmente no dese
 Também busco evoluir continuamente em **análise de dados, desenvolvimento Back-End, bancos de dados e arquitetura de aplicações**.
 
 ---
-
-## GitHub
-
-<p align="center">
-  <img src="./profile/languages.svg" height="200" />
-</p>
 
 <p align="center">
   <a href="https://github.com/Tiasgod">
