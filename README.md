@@ -98,12 +98,12 @@
 ## GitHub Statistics
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Tiasgod&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Tiasgod&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400"
     height="180"
   />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiasgod&layout=donut&theme=tokyonight&hide_border=true&langs_count=8"
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiasgod&layout=donut&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"
     height="180"
   />
 </p>
@@ -114,8 +114,8 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiasgod&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=8"
-    width="400"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiasgod&layout=bar&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"
+    width="500"
   />
 </p>
 
