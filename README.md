@@ -15,7 +15,7 @@
 </p>
 
 <p>
-  Sou <strong>Analista de Dados</strong>, <strong>Desenvolvedor Back-End</strong> 
+  Sou <strong>Analista de Dados</strong>, <strong>Desenvolvedor Back-End</strong>
   e <strong>Engenheiro de IA</strong>, com foco no desenvolvimento de aplicações,
   análise de dados e integração de soluções baseadas em Inteligência Artificial.
 </p>
@@ -95,28 +95,36 @@
 
 ---
 
-## Estatísticas
+## GitHub Statistics
 
 <p align="center">
-  <strong>
-    Confira minhas atividades, repositórios e contribuições diretamente no meu perfil do GitHub.
-  </strong>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Tiasgod&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    height="180"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiasgod&layout=donut&theme=tokyonight&hide_border=true&langs_count=8"
+    height="180"
+  />
 </p>
+
+---
+
+## Most Used Languages
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiasgod&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=8"
+    width="400"
+  />
+</p>
+
+---
 
 <p align="center">
   <a href="https://github.com/Tiasgod">
     <img src="https://img.shields.io/badge/GitHub-Tiasgod-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
-
----
-
-## Contribuições
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Tiasgod&theme=tokyo-night&hide_border=true"
-  />
 </p>
 
 ---
