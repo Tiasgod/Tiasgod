@@ -38,11 +38,13 @@ Atualmente, venho aprofundando meus conhecimentos em:
 ## Data & Analytics
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,excel,sklearn&perline=3" />
+  <img src="https://skillicons.dev/icons?i=py,sklearn&perline=2&theme=dark" height="58" />
 </p>
 
 <p align="center">
-  Pandas · NumPy
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
 </p>
 
 ---
@@ -50,7 +52,11 @@ Atualmente, venho aprofundando meus conhecimentos em:
 ## Back-End
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,fastapi,spring,nodejs&perline=7" />
+  <img src="https://skillicons.dev/icons?i=py,java,js,ts&perline=4&theme=dark" height="58" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,spring,nodejs&perline=3&theme=dark" height="58" />
 </p>
 
 ---
@@ -58,11 +64,19 @@ Atualmente, venho aprofundando meus conhecimentos em:
 ## AI Engineering
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ollama,huggingface&perline=2" />
+  <img src="https://skillicons.dev/icons?i=huggingface&perline=1&theme=dark" height="58" />
 </p>
 
 <p align="center">
-  LangChain · OpenAI API · LLMs · RAG · AI Agents
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LLMs-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/RAG-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI_Agents-111827?style=flat-square" />
 </p>
 
 ---
@@ -70,7 +84,11 @@ Atualmente, venho aprofundando meus conhecimentos em:
 ## Databases & DevOps
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,linux,git,github&perline=7" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=3&theme=dark" height="58" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github&perline=4&theme=dark" height="58" />
 </p>
 
 ---
