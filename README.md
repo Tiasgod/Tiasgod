@@ -98,7 +98,7 @@
 ## Linguagens Mais Utilizadas
 
 <p align="center">
-  <img src="./profile/top-langs.svg" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiasgod&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
