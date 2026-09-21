@@ -1,116 +1,152 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2A6B,100:2E8BC0&height=200&section=header&text=Tiago%20Dias&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Analista%20de%20Dados%20%7C%20Back-End%20%7C%20Engenheiro%20de%20IA&descAlignY=58&descSize=18&animation=fadeIn" />
-</p>
+<!-- Header -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=2E8BC0&center=true&vCenter=true&width=700&lines=Analista+de+Dados+apaixonado+por+IA;Desenvolvedor+Back-End;Engenheiro+de+IA;Transformando+dados+em+solu%C3%A7%C3%B5es" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Tiago%20Dias&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
+
+<h3 align="center">
+  Analista de Dados | Engenheiro de IA
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Analista+de+Dados+apaixonado+por+IA;Engenheiro+de+IA;Desenvolvimento+Back-End;Transformando+dados+em+solu%C3%A7%C3%B5es" />
 </p>
 
 ---
 
-## About Me
+## Sobre Mim
+
+Sou **Analista de Dados e Engenheiro de IA**, com foco no desenvolvimento de soluções que combinam **dados, programação e inteligência artificial**.
+
+Tenho interesse em transformar dados em informações úteis, desenvolver aplicações back-end e explorar tecnologias de Inteligência Artificial para criar soluções mais eficientes e inteligentes.
+
+Atualmente, venho aprofundando meus conhecimentos em:
+
+* Análise e tratamento de dados
+* Desenvolvimento Back-End
+* Inteligência Artificial
+* Machine Learning
+* Large Language Models (LLMs)
+* Integração de APIs e modelos de IA
+* Bancos de dados
+* Desenvolvimento de soluções orientadas a dados
+
+---
+
+# My Stack
+
+## Data & Analytics
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/Ulqiakf4_4gAAAAd/programming.gif" width="220" />
+  <img src="https://skillicons.dev/icons?i=python,excel&perline=6" />
 </p>
 
-<p>
-  Sou <strong>Analista de Dados</strong>, <strong>Desenvolvedor Back-End</strong>
-  e <strong>Engenheiro de IA</strong>, com foco no desenvolvimento de aplicações,
-  análise de dados e integração de soluções baseadas em Inteligência Artificial.
-</p>
-
-<p>
-  Tenho interesse em <strong>Dados</strong>, <strong>Inteligência Artificial</strong>,
-  <strong>Machine Learning</strong> e <strong>Engenharia de IA</strong>, buscando
-  transformar dados e modelos inteligentes em soluções úteis para pessoas e empresas.
+<p align="center">
+  <strong>Pandas</strong> &nbsp;&nbsp; 
+  <strong>NumPy</strong> &nbsp;&nbsp;
+  <strong>Scikit-learn</strong>
 </p>
 
 ---
 
-## Tech Stack
+## Back-End
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,fastapi,spring,nodejs&perline=7" />
+</p>
+
+---
+
+## AI Engineering
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ollama,huggingface&perline=6" />
+</p>
+
+<p align="center">
+  <strong>LangChain</strong> &nbsp;&nbsp;
+  <strong>OpenAI API</strong> &nbsp;&nbsp;
+  <strong>LLMs</strong> &nbsp;&nbsp;
+  <strong>RAG</strong> &nbsp;&nbsp;
+  <strong>AI Agents</strong>
+</p>
+
+---
+
+## Databases & DevOps
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,linux,git,github&perline=7" />
+</p>
+
+---
+
+## Tecnologias
 
 ### Linguagens
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts&perline=4" />
 </p>
 
-### Back-End
+### Dados
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,spring,nodejs" />
-</p>
-
-### Dados e Análise
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,jupyter" />
+  <img src="https://skillicons.dev/icons?i=python&perline=4" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  Pandas · NumPy · Excel · Scikit-learn
 </p>
 
 ### Inteligência Artificial
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  Ollama · LangChain · Hugging Face · OpenAI API
+</p>
+
+### Back-End
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,spring,nodejs&perline=3" />
 </p>
 
 ### Banco de Dados
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=3" />
 </p>
 
-### DevOps e Ferramentas
+### DevOps & Ambiente
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github&perline=4" />
 </p>
 
 ---
 
-## Engenharia de IA
+## Atualmente Estudando
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LLMs-Large%20Language%20Models-2E8BC0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-1B2A6B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20Agents-Agentic%20AI-2E8BC0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-1B2A6B?style=for-the-badge" />
-</p>
+Tenho como foco o aprofundamento em **Engenharia de IA**, principalmente no desenvolvimento de aplicações utilizando modelos de linguagem e integração entre Inteligência Artificial, dados e sistemas de software.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Embeddings-Vector%20Search-2E8BC0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Model%20Integration-APIs-1B2A6B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Local%20AI-Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-</p>
+Também busco evoluir continuamente em **análise de dados, desenvolvimento Back-End, bancos de dados e arquitetura de aplicações**.
 
 ---
 
-## Linguagens Mais Utilizadas
+## GitHub
 
 <p align="center">
   <img src="./profile/languages.svg" height="200" />
 </p>
 
----
-
 <p align="center">
   <a href="https://github.com/Tiasgod">
-    <img src="https://img.shields.io/badge/GitHub-Tiasgod-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Tiasgod-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E8BC0,100:1B2A6B&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" />
 </p>
