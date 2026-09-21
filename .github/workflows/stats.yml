@@ -1,4 +1,4 @@
-name: Update GitHub Languages
+name: Atualizar Linguagens
 
 on:
   schedule:
@@ -9,28 +9,29 @@ permissions:
   contents: write
 
 jobs:
-  build:
+  languages:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Baixar repositório
         uses: actions/checkout@v6
 
-      - name: Generate top languages
+      - name: Gerar gráfico de linguagens
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8
-          path: profile/top-langs.svg
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&theme=tokyonight&hide_border=true
+          path: profile/languages.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
 
-      - name: Commit languages card
+      - name: Salvar gráfico
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add profile/top-langs.svg
+          git add profile/languages.svg
 
-          git commit -m "Update GitHub languages" || exit 0
+          git diff --cached --quiet || git commit -m "Atualizar linguagens"
 
           git push
