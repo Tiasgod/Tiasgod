@@ -98,25 +98,8 @@
 ## GitHub Statistics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Tiasgod&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiasgod&layout=donut&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"
-    height="180"
-  />
-</p>
-
----
-
-## Most Used Languages
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiasgod&layout=bar&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"
-    width="500"
-  />
+  <img src="./profile/stats.svg" height="180" />
+  <img src="./profile/top-langs.svg" height="180" />
 </p>
 
 ---
